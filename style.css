@@ -1,0 +1,40 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    color: dimgray;
+}
+.orange-color{
+    color: orange;
+}
+.first-div{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.first-div img{
+    width: 100%;
+    border: 2px solid green;
+}
+.top-section{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    border: 1px solid red;
+}
+.link-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+}
